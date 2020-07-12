@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{685059CA-8098-FB31-D460-FE9AFE05C5DB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NN.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RunnerCtrl.cs" Line="17" Column="47" />
+      <File FileName="Assets/Scripts/NN.cs" Line="44" Column="55" />
+      <File FileName="Assets/Scripts/RunnerFactory.cs" Line="15" Column="19" />
+      <File FileName="Assets/Scripts/NN_Math.cs" Line="75" Column="26" />
+      <File FileName="Assets/Scripts/FileInterpreter.cs" Line="137" Column="31" />
+      <File FileName="Assets/Scripts/Canvas.cs" Line="24" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="38269d54-573d-4d95-b76b-497151e71667" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
