@@ -12,4 +12,4 @@ Within the Unity project editor:
 - At any time, the population weights and biases can be reset during runtime with the ``Reset`` button
 
 # Video Example
-[![Neural Network Learns to Navigate Course (FULL TRAINING)](https://img.youtube.com/vi/KI4Ka9GM9c8/0.jpg)](https://www.youtube.com/watch?v=KI4Ka9GM9c8)
+[![Neural Network Learns to Navigate Course (FULL TRAINING)](https://img.youtube.com/vi/cv3WyeOPd-U/0.jpg)](https://www.youtube.com/watch?v=cv3WyeOPd-U)
